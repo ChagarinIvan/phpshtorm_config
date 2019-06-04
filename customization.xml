@@ -179,7 +179,30 @@
       <path value="Git Lab" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="osmedile.intellij.stringmanip.PopupChoiceAction" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Gitlab.Create.Merge.Request.List" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <path value="VCS/LVCS Actions" />
+      <path value="Version Control Group" />
+      <path value="Git Lab" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Gitlab.Create.Merge.Request" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <path value="VCS/LVCS Actions" />
+      <path value="Version Control Group" />
+      <path value="Git Lab" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Gitlab.Create.Merge.Request.List" is_action="true" action_type="1" position="9">
       <path value="root" />
       <path value="Editor Popup Menu" />
       <path value="Editor Popup Menu Actions (2)" />
