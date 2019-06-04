@@ -1,0 +1,23 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".env.example" type=".env file" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="mailQueue" type="PLAIN_TEXT" />
+      <mapping pattern="901cd0c813e83a9252ec6519658013bd76885009" type="PLAIN_TEXT" />
+      <mapping pattern="domen" type="PLAIN_TEXT" />
+      <mapping pattern="countryList" type="PLAIN_TEXT" />
+      <mapping pattern="https" type="PLAIN_TEXT" />
+      <mapping pattern="water_slides" type="PLAIN_TEXT" />
+      <mapping pattern="questions" type="PLAIN_TEXT" />
+      <mapping pattern="internets" type="PLAIN_TEXT" />
+      <mapping pattern="3e51d75c1dae4d73f895591019ae47a86b41bf8e" type="PLAIN_TEXT" />
+      <mapping ext="-with-filterhbs" type="PLAIN_TEXT" />
+      <mapping ext="xm" type="PLAIN_TEXT" />
+      <mapping ext="com_cnt_p=1" type="PLAIN_TEXT" />
+      <mapping ext="php_id=33" type="PLAIN_TEXT" />
+      <mapping ext="asd" type="PLAIN_TEXT" />
+      <mapping pattern="country" type="XML" />
+    </extensionMap>
+  </component>
+</application>

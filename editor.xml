@@ -1,0 +1,40 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="13" />
+    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="LINE_SPACING" value="1.1" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Consolas" />
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="PHP" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="IS_DND_ENABLED" value="false" />
+  </component>
+  <component name="InspectionProfileManager">
+    <info color="b50bbe">
+      <option name="BACKGROUND" value="521c46" />
+      <option name="ERROR_STRIPE_COLOR" value="b50bbe" />
+      <option name="myName" value="not in bizon" />
+      <option name="myVal" value="50" />
+      <option name="myExternalName" value="not in bizon" />
+      <option name="myDefaultAttributes">
+        <option name="ERROR_STRIPE_COLOR" value="b50bbe" />
+      </option>
+    </info>
+    <info color="be9117">
+      <option name="BACKGROUND" value="52503a" />
+      <option name="ERROR_STRIPE_COLOR" value="be9117" />
+      <option name="EFFECT_TYPE" value="2" />
+      <option name="myName" value="Debug" />
+      <option name="myVal" value="50" />
+      <option name="myExternalName" value="Debug" />
+    </info>
+  </component>
+</application>

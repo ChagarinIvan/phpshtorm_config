@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="Branch Context group" shouldLog="false" />
+    <notification groupId="Debugger" displayType="NONE" shouldLog="false" />
+    <notification groupId="Debugger messages" shouldLog="false" />
+    <notification groupId="Key Promoter" displayType="NONE" shouldLog="false" />
+  </component>
+</application>

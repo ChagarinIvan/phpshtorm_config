@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ActivateDebugToolWindow">
+        <abbreviation name="Debug" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

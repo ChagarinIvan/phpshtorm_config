@@ -1,0 +1,68 @@
+<keymap version="1" name="CIA" parent="$default">
+  <action id="ActivateCommandLineToolsConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ActivateMongoExplorerToolWindow">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="ActivateQuickNotesToolWindow">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="CodeInspection.OnEditor" />
+  <action id="Console.Execute" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Console.TableResult.NavigateAction" />
+  <action id="ContextHelp" />
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="EditSource" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="FindUsagesInFile" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="shift alt i" />
+  </action>
+  <action id="IntroduceConstant" />
+  <action id="JumpToLastWindow" />
+  <action id="Move" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
+  <action id="SaveAll" />
+  <action id="ShowNpmScripts">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
+  <action id="ToggleBookmark" />
+  <action id="Vcs.EditSource" />
+  <action id="XDebugger.CopyName">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="XDebugger.JumpToSource" />
+  <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction" />
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+</keymap>
