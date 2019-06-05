@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2958</Count>
+          <Count>2961</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -198,7 +198,7 @@
           <IdeaActionID>osmedile.intellij.stringmanip.PopupChoiceAction</IdeaActionID>
           <ShortCut>'Alt+Shift+M' or 'Alt+M'</ShortCut>
           <Description>Popup String Manipulation ...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -422,7 +422,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>1000</Count>
+          <Count>1006</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'phpunit'">
