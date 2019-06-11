@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3156</Count>
+          <Count>3157</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -199,6 +199,14 @@
           <ShortCut>'Alt+Shift+M' or 'Alt+M'</ShortCut>
           <Description>Popup String Manipulation ...</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Previous Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.PreviousPage</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Up'</ShortCut>
+          <Description>Previous Page</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
