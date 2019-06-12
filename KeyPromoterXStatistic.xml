@@ -166,7 +166,7 @@
           <IdeaActionID>Console.TableResult.NavigateForeignAction</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Navigate to Data</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Scratch File">
@@ -462,7 +462,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>299</Count>
+          <Count>300</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
