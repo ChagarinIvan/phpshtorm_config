@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3290</Count>
+          <Count>3292</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -390,6 +390,14 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'Alt+F10'</ShortCut>
           <Description>Show Execution Point</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show npm Scripts">
+        <Item>
+          <IdeaActionID>ShowNpmScripts</IdeaActionID>
+          <ShortCut>'Alt+Minus'</ShortCut>
+          <Description>Show npm Scripts</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
