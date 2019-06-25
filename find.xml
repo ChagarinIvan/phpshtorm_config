@@ -3,5 +3,6 @@
     <option name="customScope" value="MyScope" />
     <option name="defaultScopeName" value="MyScope" />
     <option name="SEARCH_SCOPE" value="MyScope" />
+    <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
