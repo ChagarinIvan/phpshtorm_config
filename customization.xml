@@ -1,10 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="ProfilingActions" is_group="true" action_type="-1" position="13">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="SearchEverywhere" is_action="true" action_type="-1" position="12">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -15,56 +10,31 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ToolbarFindGroup" is_group="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Stop" is_action="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="Profiling Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Compare.SameVersion" is_action="true" action_type="-1" position="3">
+    <group value="CaptureCPUUsageData" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <path value="VCS Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Synchronize" is_action="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunnerActions" is_group="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CheckinProject" is_action="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <path value="VCS Actions" />
+      <path value="Profiling Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="SaveAll" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunConfiguration" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ShowSettings" is_action="true" action_type="-1" position="1">
@@ -73,11 +43,10 @@
       <path value="MainToolBarSettings" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="1">
+    <group value="CaptureMemorySnapShot" is_action="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <path value="VCS Actions" />
+      <path value="Profiling Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="OpenFile" is_action="true" action_type="-1" position="0">
@@ -85,130 +54,14 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="GitLabGroup" is_group="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Gitlab.Create.Merge.Request" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <path value="Git Lab" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Gitlab.Create.Merge.Request" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Gitlab.Create.Merge.Request.List" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <path value="Git Lab" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Gitlab.Create.Merge.Request.List" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Gitlab.Create.Merge.Request" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <path value="Git Lab" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Gitlab.Create.Merge.Request.List" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <path value="Git Lab" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Gitlab.Create.Merge.Request" is_action="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <path value="Git Lab" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Gitlab.Create.Merge.Request.List" is_action="true" action_type="1" position="5">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <path value="Git Lab" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Gitlab.Create.Merge.Request" is_action="true" action_type="1" position="6">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <path value="Git Lab" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="osmedile.intellij.stringmanip.PopupChoiceAction" is_action="true" action_type="1" position="7">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Gitlab.Create.Merge.Request.List" is_action="true" action_type="1" position="7">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <path value="Git Lab" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Gitlab.Create.Merge.Request" is_action="true" action_type="1" position="8">
       <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <path value="Git Lab" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Gitlab.Create.Merge.Request.List" is_action="true" action_type="1" position="9">
       <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <path value="Git Lab" />
+      <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
