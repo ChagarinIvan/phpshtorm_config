@@ -1,8 +1,18 @@
 <application>
-  <component name="NotificationConfiguration" systemNotifications="false">
-    <notification groupId="Branch Context group" shouldLog="false" />
-    <notification groupId="Debugger" displayType="NONE" shouldLog="false" />
-    <notification groupId="Debugger messages" shouldLog="false" />
-    <notification groupId="Key Promoter" displayType="NONE" shouldLog="false" />
+  <component name="NotificationConfiguration">
+    <notification groupId="Debugger" displayType="NONE" />
+    <notification groupId="Debugger messages" />
+    <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" />
+    <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
+    <notification groupId="Find Problems" displayType="STICKY_BALLOON" />
+    <notification groupId="Indexing" />
+    <notification groupId="Key Promoter" displayType="NONE" />
+    <notification groupId="Key Promoter X" />
+    <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" />
+    <notification groupId="PHPUnit" displayType="TOOL_WINDOW" />
+    <notification groupId="Plugins AutoSwitch" />
+    <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
+    <notification groupId="Profiling" />
+    <notification groupId="Web Deployment: Remote Host" displayType="TOOL_WINDOW" />
   </component>
 </application>
