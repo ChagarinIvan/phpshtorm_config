@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4238</Count>
+          <Count>4244</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -174,7 +174,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>9</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Forward">
@@ -190,7 +190,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>5</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Column...">
