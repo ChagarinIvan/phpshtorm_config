@@ -386,6 +386,42 @@
           <option name="namespace" value="ekaz" />
           <option name="sshUrl" value="git@gitlab.stone-labs.com:ekaz/norway-rtra-web-frontend.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.stone-labs.com/Driveline/driveline-bookstack.git" />
+          <option name="name" value="driveline-bookstack" />
+          <option name="namespace" value="Driveline" />
+          <option name="sshUrl" value="git@gitlab.stone-labs.com:Driveline/driveline-bookstack.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.stone-labs.com/Driveline/driveline-calculation.git" />
+          <option name="name" value="driveline-calculation" />
+          <option name="namespace" value="Driveline" />
+          <option name="sshUrl" value="git@gitlab.stone-labs.com:Driveline/driveline-calculation.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.stone-labs.com/Driveline/driveline-main.git" />
+          <option name="name" value="driveline-main" />
+          <option name="namespace" value="Driveline" />
+          <option name="sshUrl" value="git@gitlab.stone-labs.com:Driveline/driveline-main.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.stone-labs.com/ekaz/driveline-media.git" />
+          <option name="name" value="driveline-media" />
+          <option name="namespace" value="ekaz" />
+          <option name="sshUrl" value="git@gitlab.stone-labs.com:ekaz/driveline-media.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.stone-labs.com/ekaz/norway-rtra.git" />
+          <option name="name" value="Norway-RTRA Crawlers" />
+          <option name="namespace" value="ekaz" />
+          <option name="sshUrl" value="git@gitlab.stone-labs.com:ekaz/norway-rtra.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.stone-labs.com/ekaz/norway-rtra-web-frontend.git" />
+          <option name="name" value="Norway-RTRA Web Frontend" />
+          <option name="namespace" value="ekaz" />
+          <option name="sshUrl" value="git@gitlab.stone-labs.com:ekaz/norway-rtra-web-frontend.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
