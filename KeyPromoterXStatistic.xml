@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4263</Count>
+          <Count>4266</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -182,7 +182,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>18</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Forward">
@@ -198,7 +198,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Column...">
@@ -510,7 +510,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>1381</Count>
+          <Count>1382</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'phpunit'">
