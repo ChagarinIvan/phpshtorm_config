@@ -510,7 +510,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>1384</Count>
+          <Count>1385</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'phpunit'">
