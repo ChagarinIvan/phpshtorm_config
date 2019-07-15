@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4495</Count>
+          <Count>4496</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -510,7 +510,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'index.php'</Description>
-          <Count>1409</Count>
+          <Count>1410</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'phpunit'">
