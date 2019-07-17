@@ -38,7 +38,7 @@
           <IdeaActionID>ActivateCommandLineToolsConsoleToolWindow</IdeaActionID>
           <ShortCut>'F11'</ShortCut>
           <Description>Command Line Tools Console</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -470,7 +470,7 @@
           <IdeaActionID>SwitchCoverage</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F6'</ShortCut>
           <Description>Show Code Coverage Data</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -574,7 +574,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>164</Count>
+          <Count>165</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
