@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4578</Count>
+          <Count>4584</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -433,6 +433,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Set NULL">
+        <Item>
+          <IdeaActionID>Console.TableResult.SetNull</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+N'</ShortCut>
+          <Description>Set NULL</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Set Value...">
         <Item>
           <IdeaActionID>XDebugger.SetValue</IdeaActionID>
@@ -558,7 +566,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>311</Count>
+          <Count>313</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -566,7 +574,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>162</Count>
+          <Count>164</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
